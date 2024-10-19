@@ -1,0 +1,41 @@
+# Google Analytics
+0.0.0.0 analytics.google.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+
+# Hotjar
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 careers.hotjar.com
+0.0.0.0 events.hotjar.io
+
+# Mouseflow
+0.0.0.0 mouseflow.com
+0.0.0.0 cdn.mouseflow.com
+0.0.0.0 o2.mouseflow.com
+0.0.0.0 gtm.mouseflow.com
+0.0.0.0 api.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+
+# FreshWorks
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+
+# LuckyOrange
+0.0.0.0 luckyorange.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 settings.luckyorange.net
+
+# Stats WP Plugin
+0.0.0.0 stats.wp.com
